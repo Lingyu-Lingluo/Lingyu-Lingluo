@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Yiming Luo (Roy), also @Lingyu.I'm now a first-year undergraduate in the HIT-HKU Academy for the Talented at HIT(Harbin Institute of Technology) majoring in Artificial Intelligence. 
+My name is Yiming Luo (Roy), also [@Lingyu](https://github.com/Lingyu-Lingluo).I'm now a first-year undergraduate in the HIT-HKU Academy for the Talented at HIT(Harbin Institute of Technology) majoring in Artificial Intelligence. 
 <!--
 **Lingyu-Lingluo/Lingyu-Lingluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
